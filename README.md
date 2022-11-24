@@ -1,2 +1,2 @@
-# diceeee
+# dice
 Created with CodeSandbox
